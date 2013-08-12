@@ -1,0 +1,45 @@
+2013-08-12 07:22:10 Error: [MissingControllerException] Controller class FeedController could not be found.
+Exception Attributes: array (
+  'class' => 'FeedController',
+  'plugin' => NULL,
+)
+Request URL: /feed/?url=feed%2F
+Stack Trace:
+#0 /web/blik.io/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-12 07:28:01 Error: [MissingControllerException] Controller class ApiController could not be found.
+Exception Attributes: array (
+  'class' => 'ApiController',
+  'plugin' => NULL,
+)
+Request URL: /api/bulkUpdate/porner/h2um1y68h12h8v9l9zghzf4nnjlzhntt/?url=api%2FbulkUpdate%2Fporner%2Fh2um1y68h12h8v9l9zghzf4nnjlzhntt%2F&data=%5B%7B%22id%22%3A1%2C%22value%22%3A%220.00%22%2C%22chart_value%22%3A%220.00%22%7D%2C%7B%22id%22%3A3%2C%22value%22%3A%220.00%22%2C%22chart_value%22%3A%220.00%22%7D%2C%7B%22id%22%3A7%2C%22value%22%3A%220.00%22%2C%22chart_value%22%3A%220.00%22%7D%5D
+Stack Trace:
+#0 /web/blik.io/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-12 07:28:01 Error: [MissingControllerException] Controller class ApiController could not be found.
+Exception Attributes: array (
+  'class' => 'ApiController',
+  'plugin' => NULL,
+)
+Request URL: /api/bulkUpdate/itrinity/vuilit6lildnp79u0kd2xvrkmcopn900/?url=api%2FbulkUpdate%2Fitrinity%2Fvuilit6lildnp79u0kd2xvrkmcopn900%2F&data=%5B%7B%22id%22%3A31%2C%22value%22%3A%220.00%22%2C%22chart_value%22%3A%220.00%22%7D%5D
+Stack Trace:
+#0 /web/blik.io/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-12 07:38:02 Error: [MissingControllerException] Controller class ApiController could not be found.
+Exception Attributes: array (
+  'class' => 'ApiController',
+  'plugin' => NULL,
+)
+Request URL: /api/bulkUpdate/porner/h2um1y68h12h8v9l9zghzf4nnjlzhntt/?url=api%2FbulkUpdate%2Fporner%2Fh2um1y68h12h8v9l9zghzf4nnjlzhntt%2F&data=%5B%7B%22id%22%3A1%2C%22value%22%3A%220.00%22%2C%22chart_value%22%3A%220.00%22%7D%2C%7B%22id%22%3A3%2C%22value%22%3A%220.00%22%2C%22chart_value%22%3A%220.00%22%7D%2C%7B%22id%22%3A7%2C%22value%22%3A%220.00%22%2C%22chart_value%22%3A%220.00%22%7D%5D
+Stack Trace:
+#0 /web/blik.io/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2013-08-12 07:38:02 Error: [MissingControllerException] Controller class ApiController could not be found.
+Exception Attributes: array (
+  'class' => 'ApiController',
+  'plugin' => NULL,
+)
+Request URL: /api/bulkUpdate/itrinity/vuilit6lildnp79u0kd2xvrkmcopn900/?url=api%2FbulkUpdate%2Fitrinity%2Fvuilit6lildnp79u0kd2xvrkmcopn900%2F&data=%5B%7B%22id%22%3A31%2C%22value%22%3A%220.00%22%2C%22chart_value%22%3A%220.00%22%7D%5D
+Stack Trace:
+#0 /web/blik.io/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
